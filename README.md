@@ -3,7 +3,7 @@ Monumental Improvements
 
 Chrome extension that replaces occurrences of 'defaced' with 'improved'.
 
-[Direct download of crx file](https://github.com/michaelsnook/monument-improvements/blob/master/MonumentalImprovements.crx?raw=true)
+[Direct download of crx file](https://github.com/michaelsnook/MonumentalImprovements/blob/master/MonumentalImprovements.crx?raw=true)
 
 This is a blatant ripoff of the [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt/) extension.
 

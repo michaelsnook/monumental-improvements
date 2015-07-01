@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
-	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
-	"content_scripts": 
+	"name": "Monumental Improvements",
+	"version": "0.1",
+	"description": "Replaces the text 'defaced' with 'improved'.",
+	"content_scripts":
 	[
 		{
 			"matches": ["*://*/*"],
@@ -12,4 +12,3 @@
 		}
 	]
 }
-

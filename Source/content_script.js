@@ -32,6 +32,8 @@ function handleText(textNode)
 	var v = textNode.nodeValue;
 
 	v = v.replace(/\bVandals defaced\b/g, "Heroes improved");
+	v = v.replace(/\bVandals\b/g, "Heroes");
+	v = v.replace(/\bvandals\b/g, "heroes");
 	v = v.replace(/\bdefaced\b/g, "improved");
 	v = v.replace(/\bDefaced\b/g, "Improved");
 	v = v.replace(/\bvandalized\b/g, "corrected");

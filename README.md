@@ -11,3 +11,8 @@ Installation
 ------------
 
 In Chrome, choose Window > Extensions.  Drag MonumentalImprovements.crx into the page that appears.
+
+Example
+-------
+
+![Screenshot of Monumental Improvements extension in action](screenshot.png)

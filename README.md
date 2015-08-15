@@ -6,7 +6,7 @@ This chrome extension was originally written in honor of Bree Newsome, to replac
 Installation
 ------------
 
-First, [download of crx file](https://github.com/michaelsnook/monumental-improvements/blob/master/monumental-improvements.crx?raw=true). Then, in Chrome, go to Settings > Extensions. Drag monumental-improvements.crx into the page that appears.
+First, [download the chrome extension file](https://github.com/michaelsnook/monumental-improvements/blob/master/monumental-improvements.crx?raw=true). Then, in Chrome, go to Settings > Extensions. Drag monumental-improvements.crx into the page that appears.
 
 Example
 -------

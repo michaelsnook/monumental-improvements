@@ -1,7 +1,7 @@
 Monumental Improvements
 =============
 
-Chrome extension that replaces occurrences of 'defaced' with 'improved', among other things.
+This chrome extension was originally written in honor of Bree Newsome, to replace occurrences of the words like "defaced" or "vandalized" with "improved". It has since been extended to work for the term "Politically correct" and some of its variations, replacing them with more appropriate phrases like "Treating others with respect".
 
 Installation
 ------------
@@ -11,7 +11,11 @@ First, [download of crx file](https://github.com/michaelsnook/monumental-improve
 Example
 -------
 
+![Screenshot of Politically Correct feature](wiki-screenshot.jpg)
+
 ![Screenshot of Monumental Improvements extension in action](screenshot.png)
+
+
 
 Acknowledgments
 ---------------

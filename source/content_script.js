@@ -45,6 +45,10 @@ function handleText(textNode)
 	v = v.replace(/\bPC police\b/g, "Respectful people");
 	v = v.replace(/\bPC-police\b/g, "Respectful people");
 	v = v.replace(/\bun-PC\b/g, "shitty to people");
+	v = v.replace(/\binvandring\b/g, "sushi");
+	v = v.replace(/\bInvandring\b/g, "Sushi");
+	v = v.replace(/\bVolymer\b/g, "Teriyaki");
+	v = v.replace(/\bvolymer\b/g, "teriyaki");
 
 	textNode.nodeValue = v;
 }

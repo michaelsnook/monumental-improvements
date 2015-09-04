@@ -51,6 +51,8 @@ function handleText(textNode)
 	v = v.replace(/\bvolymer\b/g, "teriyaki");
 	v = v.replace(/\bmigrants\b/g, "people");
 	v = v.replace(/\bMigrants\b/g, "People");
+	v = v.replace(/\bmigrant\b/g, "human");
+	v = v.replace(/\bMigrant\b/g, "Human");
 
 
 	textNode.nodeValue = v;

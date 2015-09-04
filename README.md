@@ -13,9 +13,11 @@ First, [download the chrome extension file](https://github.com/michaelsnook/monu
 Example
 -------
 
-![Screenshot of Politically Correct feature](wiki-screenshot.jpg)
+![Screenshot of Migrant correction](./img/migrant-human.png)
 
-![Screenshot of Monumental Improvements extension in action](screenshot.png)
+![Screenshot of Politically Correct feature](./img/wiki-screenshot.jpg)
+
+![Screenshot of Monumental Improvements extension in action](./img/screenshot.png)
 
 
 

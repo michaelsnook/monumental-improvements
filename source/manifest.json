@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Monumental Improvements",
-	"version": "0.3",
+	"version": "0.4",
 	"description": "Replaces the text 'defaced' with 'improved', and other defacements -- now with Swedish!",
 	"content_scripts":
 	[

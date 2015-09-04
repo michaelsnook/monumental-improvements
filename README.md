@@ -1,6 +1,8 @@
 Monumental Improvements
 =============
 
+**Update:** Now includes "migrants" > "people".
+
 This chrome extension was originally written in honor of Bree Newsome, to replace occurrences of the words like "defaced" or "vandalized" with "improved". It has since been extended to work for the term "Politically correct" and some of its variations, replacing them with more appropriate phrases like "Treating others with respect".
 
 Installation

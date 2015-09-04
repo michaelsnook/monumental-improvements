@@ -49,6 +49,9 @@ function handleText(textNode)
 	v = v.replace(/\bInvandring\b/g, "Sushi");
 	v = v.replace(/\bVolymer\b/g, "Teriyaki");
 	v = v.replace(/\bvolymer\b/g, "teriyaki");
+	v = v.replace(/\bmigrants\b/g, "people");
+	v = v.replace(/\bMigrants\b/g, "People");
+
 
 	textNode.nodeValue = v;
 }
